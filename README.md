@@ -13,7 +13,7 @@
 ```
 https://www.w3schools.com/html/html_intro.asp
 ```
-**Livro HTML*
+**Livro HTML**
 ```
 https://livrosdomaujor.com.br/html/index.php
 ```
