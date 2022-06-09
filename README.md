@@ -13,6 +13,11 @@
 ```
 https://www.w3schools.com/html/html_intro.asp
 ```
+**Livro HTML*
+```
+https://livrosdomaujor.com.br/html/index.php
+```
+
 
 >2.CSS -  Linguagem de **Estilização** (cores,fontes,background...)<br>
 
