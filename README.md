@@ -23,7 +23,7 @@ https://www.w3schools.com/css/default.asp
 >3.JavaScript - Linguagem de Programação Script (**funcionalidade**)<br>
 
 ```
-[https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/js/default.asp)
+https://www.w3schools.com/js/default.asp
 ```
 
 >4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)<br>
@@ -31,7 +31,35 @@ https://www.w3schools.com/css/default.asp
 https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
 ```
 
-5.*Lógica de Programação* Aplicada ao JavaScript<br>
+>5.*Lógica de Programação* Aplicada ao JavaScript<br>
+
+**Racha Cuca**
+```
+https://rachacuca.com.br/
+```
+**Lógica de Programação EAD SENAI**
+
+```
+https://loja.mundosenai.com.br/senainacional/logica-de-programac-o-1-1-1-1-1
+```
+
+**Kata Dojo**
+
+```
+https://codingdojo.org/kata/
+```
+
+**BeeCrownd**
+
+```
+https://www.beecrowd.com.br/judge/en/login
+```
+**JavaScript**
+
+```
+
+```
+
 6.*Orientação a Objetos* Aplicada ao JavaScript/TypeScript<br>
 7.Frameworks JavaScript: Angular, React e Vue.js<br>
 8.Linguagem C#: Básico, Intermedíario e Avançado<br>
