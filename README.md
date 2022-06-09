@@ -57,7 +57,7 @@ https://www.beecrowd.com.br/judge/en/login
 **JavaScript**
 
 ```
-
+https://www.w3schools.com/js/default.asp
 ```
 
 6.*Orientação a Objetos* Aplicada ao JavaScript/TypeScript<br>
