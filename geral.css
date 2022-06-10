@@ -1,20 +1,20 @@
+/*Exemplo de CSS Externo*/
 
 body{
-    background-color: wheat;
-}
-/*pai*/
-ul{
-    background-color:saddlebrown ;
-}
-/*filho*/
-li{
-    background-color: slategray;
+    background-color:cornsilk;
 }
 
-li a{
-    background-color: brown;
+/*pai*/
+ul{
+    background-color: yellow;
+}
+
+/*filho*/
+
+ul li{
+    background-color:brown;
 }
 /*neto*/
 ul li a{
-    background-color:skyblue ;
+    background-color: aqua;
 }
