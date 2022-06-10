@@ -1,8 +1,20 @@
-body{
-    background-color:white;
 
+body{
+    background-color: wheat;
+}
+/*pai*/
+ul{
+    background-color:saddlebrown ;
+}
+/*filho*/
+li{
+    background-color: slategray;
 }
 
-body{
-    background-color: teal;
+li a{
+    background-color: brown;
+}
+/*neto*/
+ul li a{
+    background-color:skyblue ;
 }
