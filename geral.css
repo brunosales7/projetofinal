@@ -10,6 +10,16 @@
 
 }
 
+nav{
+    position: absolute;
+    left: 400px;
+    top: 5px;
+}
+
+
+
+
+
 .abaixodevinte{
     color:blue;
 }
@@ -67,6 +77,8 @@ ul li a:hover{
     height: 50px;
     border: 2px solid red;
 }
+
+
 
 /* exemplo pai
 ul{
