@@ -10,7 +10,9 @@
 
 }
 
-
+.abaixodevinte{
+    color:blue;
+}
 
 
 /*Exemplo de CSS Externo*/
@@ -34,9 +36,9 @@ ul{
 /*filho*/
 
 ul li{
-    background-color:antiquewhite;
+
     display: inline;
-    padding-left: 140px;
+    padding-left: 80px;
 }
 
 
@@ -53,8 +55,18 @@ ul li a:hover{
     background-color: coral;
 }
 
+#principal{
 
+    width: 100%;
+    height: 500px;
+    border: 2px solid red;
+}
+#rodape{
 
+    width: 100%;
+    height: 50px;
+    border: 2px solid red;
+}
 
 /* exemplo pai
 ul{
