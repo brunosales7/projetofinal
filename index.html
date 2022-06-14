@@ -15,6 +15,12 @@
  
      </style>
 
+<script type="text/javascript" src="Blibiotecas/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="plugins/coin-slider.min.js"></script>
+<link rel="stylesheet" href="plugins/coin-slider-styles.css" type="text/css" />
+
+
+
 </head>
 <body>
 
@@ -38,11 +44,51 @@
     </form>
 </div>
 
+<div id="caixa1">
+    <form action="#" method="post">
+        pesquisa1 <input ty pe="text">
+    </form>
+</div>
+
+
+<div id="caixa2">
+    <form action="#" method="post">
+        pesquisa2 <input ty pe="text">
+    </form>
+</div>
+
+
+<div id="caixa3">
+    <form action="#" method="post">
+        pesquisa3 <input ty pe="text">
+    </form>
+</div>
+
+
+
 
 
 </div>
 
-    <div id="principal">
+    <main>
+        <div id='coin-slider'>
+            <a href="img01_url" target="_blank">
+                <img src='img01.jpg' >
+                <span>
+                    Description for img01
+                </span>
+            </a>
+            ......
+            ......
+            <a href="imgN_url">
+                <img src='imgN.jpg' >
+                <span>
+                    Description for imgN
+                </span>
+            </a>
+        </div>
+
+    </main>
     
 
 
@@ -52,7 +98,11 @@
 <div id="rodape">
     CanecaNerd &copy;
 </div>
-    
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#coin-slider').coinslider();
+    });
+</script>
 
 
     
